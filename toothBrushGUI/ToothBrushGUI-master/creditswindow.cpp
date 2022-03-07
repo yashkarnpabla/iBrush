@@ -1,7 +1,7 @@
 /** Credits window class
 This class was designed to display the names of group members who
  contributed to this project.
- @author Mazen Baioumy
+ @author YASHKARN PABLA
  @brief Displays form containing group members
 */
 
