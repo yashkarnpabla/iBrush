@@ -1,7 +1,7 @@
 /** Weather widget class
  *This class is designed to retrieve a JSON file from the
  *openweathermap API and parse it to display local weather statistics
- * @author Spencer Poultney
+ * @author YASHKARN PABLA
  * @brief displays form containing weather data
  */
 
