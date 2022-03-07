@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>sportsWindow</class>
+ <widget class="QDialog" name="sportsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Sports Window</string>
+  </property>
+  <widget class="QComboBox" name="sportsComboBox">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>100</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="currentText">
+    <string>Football</string>
+   </property>
+   <item>
+    <property name="text">
+     <string>Football</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Baseball</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Basketball</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Hockey</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="sportsSelectButton">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>230</y>
+     <width>99</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Select</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="sportsPicture">
+   <property name="geometry">
+    <rect>
+     <x>7</x>
+     <y>11</y>
+     <width>381</width>
+     <height>291</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="sportsBackButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Back</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="openYoutubeCheckBox">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>270</y>
+     <width>131</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Open Youtube</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>270</y>
+     <width>131</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="upcomingGamesButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>140</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Upcoming Games</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="teamStatsButton">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>180</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Team Stats</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="teamLineEdit">
+   <property name="geometry">
+    <rect>
+     <x>262</x>
+     <y>140</y>
+     <width>111</width>
+     <height>32</height>
+    </rect>
+   </property>
+  </widget>
+  <zorder>sportsPicture</zorder>
+  <zorder>sportsComboBox</zorder>
+  <zorder>sportsSelectButton</zorder>
+  <zorder>sportsBackButton</zorder>
+  <zorder>label</zorder>
+  <zorder>openYoutubeCheckBox</zorder>
+  <zorder>upcomingGamesButton</zorder>
+  <zorder>teamStatsButton</zorder>
+  <zorder>teamLineEdit</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
