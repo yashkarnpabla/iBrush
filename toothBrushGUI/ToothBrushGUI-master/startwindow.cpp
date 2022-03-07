@@ -2,7 +2,7 @@
 This class is designed to provide the opening interface where the
  * user can view the project credits or start the toothbrush and move
  * into the selection window interface.
- * @author Nick Hamel
+ * @author YASHKARN PABLA
  * @brief starting UI for project
  */
 
