@@ -1,7 +1,7 @@
 /** Music window class
  * This class is designed to allow the user to search up music
  * (or any other media) through the Youtube or Soundcloud platform
- * @author Obaida Kamil
+ * @author YASHKARN PABLA
  * @brief Allows user to play music
 */
 
