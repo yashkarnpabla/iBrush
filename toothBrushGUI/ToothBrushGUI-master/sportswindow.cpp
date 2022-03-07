@@ -1,7 +1,7 @@
 /** Sports window class
  * This class is designed to allow the user to pull up team statistics
  * and media for a variety of sports' respective professional leagues.
- * @author Spencer Poultney
+ * @author YASHKARN PABLA
  * @brief Allows user to view sports stats
  */
 
