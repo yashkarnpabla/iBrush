@@ -1,7 +1,7 @@
 /** News window class
 This class is designed to allow the user to open and view the news
  from a variety of different outlets.
- @author Mazen Baioumy
+ @author YASHKARN PABLA
  @brief displays news to user
 */
 
